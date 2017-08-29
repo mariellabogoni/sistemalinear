@@ -3,3 +3,4 @@
   criei uma função
   ficou legal 
 a = 45
+b=2
